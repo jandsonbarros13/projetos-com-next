@@ -1,1 +1,1 @@
-# repositori-curso-next
+# projetos-com-next
